@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minecraft22300570</string>
+    <string-array name="tipos_de_material">
+    <item>Madeira</item>
+    <item>Ouro</item>
+    <item>Diamante</item>
+    </string-array>
+</resources>
+
